@@ -1,0 +1,18 @@
+#alertcontainer{
+    display: none;
+}
+
+body{
+    background-image: url("../img/background-cement-concrete-242236.jpg");
+    background-size: cover;
+
+}
+.form-group{
+    font-weight: bold;
+    font-size: 20px;
+    color: #3d5c5c;
+}
+.form-group .remain{
+    font-weight: normal;
+    font-size: 18px;
+}
